@@ -34,10 +34,10 @@ Organizar todo o aprendizado de forma prática e reutilizável, e ao final estar
 
 ---
 
-## 📂 Estrutura de Pastas
+## 📁 Estrutura de Pastas
 
+```bash
 /Estudos-JavaScript
-│
 ├── README.md
 ├── GIT-COMANDOS.md
 ├── COMANDOS-TERMINAL.md
@@ -105,8 +105,9 @@ Organizar todo o aprendizado de forma prática e reutilizável, e ao final estar
 │   └── exercicios/
 │
 ├── Módulo 11 - Projeto Final
-│   ├── projeto/
-│   │   ├── index.html
-│   │   ├── style.css
-│   │   └── script.js
-│   └── explicacao.md
+│   ├── explicacao.md
+│   └── projeto/
+│       ├── index.html
+│       ├── style.css
+│       └── script.js
+
