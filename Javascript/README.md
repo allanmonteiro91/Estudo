@@ -110,4 +110,3 @@ Organizar todo o aprendizado de forma prática e reutilizável, e ao final estar
 │       ├── index.html
 │       ├── style.css
 │       └── script.js
-
