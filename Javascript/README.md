@@ -43,13 +43,12 @@ Organizar todo o aprendizado de forma prática e reutilizável, e ao final estar
 ├── COMANDOS-TERMINAL.md
 │
 ├── Módulo 01 - Fundamentos
+│   ├── aulas.md
 │   ├── explicacao.md
 │   ├── variaveis.js
 │   ├── tipos-dados.js
 │   ├── operadores.js
 │   └── exercicios/
-│       ├── desafio-1.js
-│       └── desafio-2.js
 │
 ├── Módulo 02 - Controle de Fluxo
 │   ├── explicacao.md
