@@ -24,16 +24,16 @@ const maior = variavel2 > variavel1;
 
 
 //resultados aritiméticos
-console.log (soma);
-console.log (subtracao);
-console.log (multiplicacao);
-console.log (divisao);
-console.log (potencia);
+console.log(soma);
+console.log(subtracao);
+console.log(multiplicacao);
+console.log(divisao);
+console.log(potencia);
 
 //resultados de comparação
-console.log (igualdade);
-console.log (diferenca);
-console.log (maior);
+console.log(igualdade);
+console.log(diferenca);
+console.log(maior);
 
 
 // Precisa ter 18 anos para entrar no evento
@@ -41,8 +41,8 @@ console.log (maior);
 const nome = 'Allan';
 const idade = 15;
 
-if (idade >= 18){
-    console.log (`${nome} pode entrar no evento`)
+if (idade >= 18) {
+    console.log(`${nome} pode entrar no evento`)
 } else {
-    console.log (`${nome} é menor de idade e por isso não pode entrar no evento!`)
+    console.log(`${nome} é menor de idade e por isso não pode entrar no evento!`)
 }

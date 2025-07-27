@@ -9,7 +9,7 @@
 let numero = '10';
 
 //operação matemática + conversão explicita
-console.log (Number(numero) + 10);
+console.log(Number(numero) + 10);
 
 //exemplo de conversão automática
 console.log(numero * 10);
