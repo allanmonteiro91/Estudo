@@ -43,3 +43,5 @@ for (let i = 1; i <= 5; i++) {
   console.log(i);
 }
 // Vai imprimir 1, 2, 4, 5 (pula o 3).
+
+
